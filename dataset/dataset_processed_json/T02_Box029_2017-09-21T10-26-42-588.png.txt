@@ -1,0 +1,56 @@
+{
+  "predictions": [
+    {
+      "x": 2515,
+      "y": 1462,
+      "width": 153,
+      "height": 159,
+      "confidence": 0.563773512840271,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "ece47b90-d2b4-4549-a358-9f82aebe9075",
+      "image_path": "dataset/one_hundred_images/T02_Box029_2017-09-21T10-26-42-588.png",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 2323,
+      "y": 1368,
+      "width": 192,
+      "height": 196,
+      "confidence": 0.5434093475341797,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "3a05a189-3b4b-4615-aaa7-8ebc4515a2f5",
+      "image_path": "dataset/one_hundred_images/T02_Box029_2017-09-21T10-26-42-588.png",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 3171,
+      "y": 250,
+      "width": 185,
+      "height": 182,
+      "confidence": 0.5401423573493958,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "9a1f3d6a-eb8f-482f-abbd-6a4e9b3ce971",
+      "image_path": "dataset/one_hundred_images/T02_Box029_2017-09-21T10-26-42-588.png",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 2704,
+      "y": 876,
+      "width": 185,
+      "height": 215,
+      "confidence": 0.5256720781326294,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "da5631be-f01f-441f-aa4f-04ba78be89a2",
+      "image_path": "dataset/one_hundred_images/T02_Box029_2017-09-21T10-26-42-588.png",
+      "prediction_type": "ObjectDetectionModel"
+    }
+  ],
+  "image": {
+    "width": "4096",
+    "height": "3000"
+  }
+}

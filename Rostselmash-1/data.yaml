@@ -1,0 +1,12 @@
+names:
+- plants
+nc: 1
+roboflow:
+  license: Private
+  project: rostselmash
+  url: https://app.roboflow.com/rostselmash/rostselmash/1
+  version: 1
+  workspace: rostselmash
+test: ../test/images
+train: Rostselmash-1/train/images
+val: Rostselmash-1/valid/images
