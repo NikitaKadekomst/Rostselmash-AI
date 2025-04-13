@@ -1,7 +1,0 @@
-{
-  "predictions": [],
-  "image": {
-    "width": "4096",
-    "height": "3000"
-  }
-}
