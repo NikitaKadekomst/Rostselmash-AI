@@ -1,0 +1,212 @@
+{
+  "predictions": [
+    {
+      "x": 528.0,
+      "y": 18.5,
+      "width": 34.0,
+      "height": 37.0,
+      "confidence": 0.8079729080200195,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "3e43d4a0-f40f-4e28-8f3d-665ce539cf25",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 606.5,
+      "y": 151.0,
+      "width": 33.0,
+      "height": 44.0,
+      "confidence": 0.7287240028381348,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "b64585db-e9a5-4aeb-a321-2a68de2b1533",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 216.5,
+      "y": 368.0,
+      "width": 25.0,
+      "height": 46.0,
+      "confidence": 0.728593111038208,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "e648e110-2472-4cfc-b567-911edd743677",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 340.5,
+      "y": 115.5,
+      "width": 41.0,
+      "height": 51.0,
+      "confidence": 0.7103004455566406,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "8c935648-380e-4795-a0a6-bbc5d793522e",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 143.5,
+      "y": 97.5,
+      "width": 37.0,
+      "height": 37.0,
+      "confidence": 0.6943178176879883,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "f13cc83a-97d4-427d-a976-d2f797dc25af",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 472.5,
+      "y": 541.0,
+      "width": 31.0,
+      "height": 56.0,
+      "confidence": 0.6873471736907959,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "1205388b-95d3-4410-bf78-e7562a6eb28d",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 324.5,
+      "y": 57.0,
+      "width": 43.0,
+      "height": 56.0,
+      "confidence": 0.6490345001220703,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "9ca4707e-cad2-4f2c-8066-648bc4094d71",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 467.5,
+      "y": 494.0,
+      "width": 33.0,
+      "height": 38.0,
+      "confidence": 0.6066122055053711,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "d6dd7200-292e-4a48-8ff6-fb4936e0c7bd",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 88.0,
+      "y": 500.5,
+      "width": 28.0,
+      "height": 43.0,
+      "confidence": 0.5687631368637085,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "2c5db662-938e-4bce-aa49-88d77fa578ad",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 300.5,
+      "y": 14.0,
+      "width": 35.0,
+      "height": 28.0,
+      "confidence": 0.5641729831695557,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "8273123e-2923-453d-8f04-b13e28398629",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 620.0,
+      "y": 202.0,
+      "width": 30.0,
+      "height": 58.0,
+      "confidence": 0.5596630573272705,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "389c0277-8c5f-4a6c-8bf2-0d4a1a67f0de",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 173.0,
+      "y": 219.0,
+      "width": 28.0,
+      "height": 36.0,
+      "confidence": 0.5489888191223145,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "ca13c546-9ff2-443b-a086-7907a7bb600f",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 26.0,
+      "y": 315.0,
+      "width": 20.0,
+      "height": 36.0,
+      "confidence": 0.5329381227493286,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "a076e7fd-b611-4d7a-99ad-4266a4dc4706",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 21.0,
+      "y": 606.5,
+      "width": 26.0,
+      "height": 37.0,
+      "confidence": 0.5321660041809082,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "0c19b0d4-7a94-4960-8230-3c627230293b",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 266.0,
+      "y": 515.0,
+      "width": 46.0,
+      "height": 92.0,
+      "confidence": 0.5216224193572998,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "8c0fe998-f27b-42e0-91a4-328395cdcdd7",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 242.5,
+      "y": 445.0,
+      "width": 23.0,
+      "height": 34.0,
+      "confidence": 0.5135802030563354,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "fa45a2fc-778c-4f05-888a-f0f5ceda0913",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    },
+    {
+      "x": 51.5,
+      "y": 399.0,
+      "width": 17.0,
+      "height": 32.0,
+      "confidence": 0.5056322813034058,
+      "class": "plants",
+      "class_id": 0,
+      "detection_id": "a4021b75-b060-45f4-abba-f806e306f64d",
+      "image_path": "C:/Own/University/\u0414\u0413\u0422\u0423/\u0412\u041c\u041e/6 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430/\u041f\u0440\u043e\u0435\u043a\u0442/dataset/images/Rostselmash-1/whole/images/240521_gopro11_gx010066_00894.jpg",
+      "prediction_type": "ObjectDetectionModel"
+    }
+  ],
+  "image": {
+    "width": "640",
+    "height": "640"
+  }
+}

@@ -1,0 +1,12 @@
+API_TOKEN = "GWPLfbanlFRrU2iDQm6w"
+WORKSPACE_NAME = "rostselmash"
+PROJECT_ID = "rostselmash"
+PROJECT_VERSION = 1
+BASE_FOLDER = "predict_json"
+DATASET_PATH = "/Project/dataset/images/Rostselmash-1/whole/"
+PREDICTIONS_PATH = "/Project/dataset/images/Rostselmash-1/whole/predictions"
+WINDOW_WIDTH = 400
+WINDOW_HEIGHT = 500
+WINDOW_BG = "#e3e3e3"
+BUTTON_COLOR = "lightblue"
+TEXT_COLOR = "#133a85"
